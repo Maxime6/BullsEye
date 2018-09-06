@@ -23,6 +23,10 @@ class ViewController: UIViewController {
     func test() {
         print("test Git 2nd try")
     }
+    
+    func github() {
+        print("test github")
+    }
 
 
 }
