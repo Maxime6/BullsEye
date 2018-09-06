@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
     
     func test() {
-        print("test Git")
+        print("test Git 2nd try")
     }
 
 
